@@ -42,8 +42,8 @@ main() {
         done
 }
 
-parent_id=17MAifV92Rj-4Q78cQGotsxRx0AsSwUrj
-folder_path=/home/farouq-gfishi/Personal/devops
+parent_id=$1
+folder_path=$2
 
 echo
 echo "***************************************"
