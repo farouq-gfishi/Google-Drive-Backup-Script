@@ -1,0 +1,1063 @@
+
+***************************************
+
+Fri Jul  5 05:47:01 PM +03 2024
+
+***************************************
+
+/home/farouq-gfishi/Personal/devops/00-handbook-master
+/home/farouq-gfishi/Personal/devops/01-Linux
+/home/farouq-gfishi/Personal/devops/01-Linux/backup-task
+Updating 1i1KPTbN25xXT80EKRxugAQvWCo6csR62 with /home/farouq-gfishi/Personal/devops/01-Linux/backup-task/backups.sh
+File successfully updated
+Id: 1i1KPTbN25xXT80EKRxugAQvWCo6csR62
+Name: backups.sh
+Mime: application/x-sh
+Size: 2.1 KB
+Created: 2024-07-01 09:55:07
+Modified: 2024-07-05 17:47:07
+MD5: fd00f8897ce90bf592f77f5eb042deaa
+Shared: False
+Parents: 1uUFmga8IXrxg9DiE5RJL6sSpiU5B3OW3
+ViewUrl: https://drive.google.com/file/d/1i1KPTbN25xXT80EKRxugAQvWCo6csR62/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/01-Linux/backup-task/logs
+Updating 1GTgNZOtE_jWgTveT9qkueCROWcHjb5nF with /home/farouq-gfishi/Personal/devops/01-Linux/backup-task/logs/240107.log
+File successfully updated
+Id: 1GTgNZOtE_jWgTveT9qkueCROWcHjb5nF
+Name: 240107.log
+Mime: text/plain
+Size: 29 KB
+Created: 2024-07-01 09:57:11
+Modified: 2024-07-05 17:47:11
+MD5: 7000eee5f335afb47b8ec7f363912c43
+Shared: False
+Parents: 17VMvGlIShA3UlMGa2Uz7-IFvoKCNtr3C
+ViewUrl: https://drive.google.com/file/d/1GTgNZOtE_jWgTveT9qkueCROWcHjb5nF/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/01-Linux/backup-task/logs/240507.log
+File successfully uploaded
+Id: 12Q1pCI4k0O4K3iuGa1O2f_iJ6SVIzD6C
+Name: 240507.log
+Mime: text/plain
+Size: 1.4 KB
+Created: 2024-07-05 17:47:13
+Modified: 2024-07-05 17:47:13
+MD5: de29749e42edea99a1ca2aa1dcfbe623
+Shared: False
+Parents: 17VMvGlIShA3UlMGa2Uz7-IFvoKCNtr3C
+ViewUrl: https://drive.google.com/file/d/12Q1pCI4k0O4K3iuGa1O2f_iJ6SVIzD6C/view?usp=drivesdk
+Updating 1-DRAvmSA2Sw6Woq6QQH_bb2syNZukIjV with /home/farouq-gfishi/Personal/devops/01-Linux/backup-task/startup.sh
+File successfully updated
+Id: 1-DRAvmSA2Sw6Woq6QQH_bb2syNZukIjV
+Name: startup.sh
+Mime: application/x-sh
+Size: 344 B
+Created: 2024-07-01 09:55:12
+Modified: 2024-07-05 17:47:17
+MD5: 04264f4640fd9479da3f1e137094a7c4
+Shared: False
+Parents: 1uUFmga8IXrxg9DiE5RJL6sSpiU5B3OW3
+ViewUrl: https://drive.google.com/file/d/1-DRAvmSA2Sw6Woq6QQH_bb2syNZukIjV/view?usp=drivesdk
+Updating 1RLPosk2nEAdFo6xgM69-CQCSa8olFkZY with /home/farouq-gfishi/Personal/devops/01-Linux/bash-scripting.sh
+File successfully updated
+Id: 1RLPosk2nEAdFo6xgM69-CQCSa8olFkZY
+Name: bash-scripting.sh
+Mime: application/x-sh
+Size: 5.7 KB
+Created: 2024-06-30 16:06:08
+Modified: 2024-07-05 17:47:20
+MD5: a109c7f7196a878c1c5b48510c1e7347
+Shared: False
+Parents: 105YtYzWROG28PP2gUEzKdVnFtTEbQm_R
+ViewUrl: https://drive.google.com/file/d/1RLPosk2nEAdFo6xgM69-CQCSa8olFkZY/view?usp=drivesdk
+Updating 1i51Ebp15doGXjpHtsE53yMkocb0qwgzQ with /home/farouq-gfishi/Personal/devops/01-Linux/cron.txt
+File successfully updated
+Id: 1i51Ebp15doGXjpHtsE53yMkocb0qwgzQ
+Name: cron.txt
+Mime: text/plain
+Size: 197 B
+Created: 2024-06-30 16:06:10
+Modified: 2024-07-05 17:47:23
+MD5: e7ea74b47bd5746d3e99e604f18fda86
+Shared: False
+Parents: 105YtYzWROG28PP2gUEzKdVnFtTEbQm_R
+ViewUrl: https://drive.google.com/file/d/1i51Ebp15doGXjpHtsE53yMkocb0qwgzQ/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises
+Updating 1chfnpdptMW1YlI6xiY-Nx-CvMBt6P6Ao with /home/farouq-gfishi/Personal/devops/01-Linux/exercises/01-greeting.sh
+File successfully updated
+Id: 1chfnpdptMW1YlI6xiY-Nx-CvMBt6P6Ao
+Name: 01-greeting.sh
+Mime: application/x-sh
+Size: 227 B
+Created: 2024-06-30 16:06:14
+Modified: 2024-07-05 17:47:28
+MD5: 257e63e650ca2ccfd0eefc2760cb8918
+Shared: False
+Parents: 15qtmcE-EKwt58-su4GMAepT5ctWxLMEl
+ViewUrl: https://drive.google.com/file/d/1chfnpdptMW1YlI6xiY-Nx-CvMBt6P6Ao/view?usp=drivesdk
+Updating 1U8xKuNfu1fPrPhq2e55ZVc86pEDEipb3 with /home/farouq-gfishi/Personal/devops/01-Linux/exercises/02-loop.sh
+File successfully updated
+Id: 1U8xKuNfu1fPrPhq2e55ZVc86pEDEipb3
+Name: 02-loop.sh
+Mime: application/x-sh
+Size: 282 B
+Created: 2024-06-30 16:06:17
+Modified: 2024-07-05 17:47:31
+MD5: c27d4882a8170417c7eb9e528be34042
+Shared: False
+Parents: 15qtmcE-EKwt58-su4GMAepT5ctWxLMEl
+ViewUrl: https://drive.google.com/file/d/1U8xKuNfu1fPrPhq2e55ZVc86pEDEipb3/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/03-add-names
+Updating 1eye67DpD4KZvm2qiiQQ-XF_l1GfM7nHU with /home/farouq-gfishi/Personal/devops/01-Linux/exercises/03-add-names/03-addnames.sh
+File successfully updated
+Id: 1eye67DpD4KZvm2qiiQQ-XF_l1GfM7nHU
+Name: 03-addnames.sh
+Mime: application/x-sh
+Size: 536 B
+Created: 2024-06-30 16:06:20
+Modified: 2024-07-05 17:47:36
+MD5: e5049e24661039fa4ee85a60fd12c060
+Shared: False
+Parents: 19Z7J-Is7E-uJDefCpuON79_2SKF5PGRK
+ViewUrl: https://drive.google.com/file/d/1eye67DpD4KZvm2qiiQQ-XF_l1GfM7nHU/view?usp=drivesdk
+Updating 1f6NRYiC3Le9q1xyuhs8yD-xEdLsIsCjT with /home/farouq-gfishi/Personal/devops/01-Linux/exercises/03-add-names/03-names.txt
+File successfully updated
+Id: 1f6NRYiC3Le9q1xyuhs8yD-xEdLsIsCjT
+Name: 03-names.txt
+Mime: text/plain
+Size: 86 B
+Created: 2024-06-30 16:06:22
+Modified: 2024-07-05 17:47:39
+MD5: 78ed85d57bb742dfaddd24f720185638
+Shared: False
+Parents: 19Z7J-Is7E-uJDefCpuON79_2SKF5PGRK
+ViewUrl: https://drive.google.com/file/d/1f6NRYiC3Le9q1xyuhs8yD-xEdLsIsCjT/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs
+Updating 1LLRl8JrGmgEYooQE2xwiQbTIneFxeREM with /home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/names.txt
+File successfully updated
+Id: 1LLRl8JrGmgEYooQE2xwiQbTIneFxeREM
+Name: names.txt
+Mime: text/plain
+Size: 86 B
+Created: 2024-06-30 16:06:26
+Modified: 2024-07-05 17:47:43
+MD5: 78ed85d57bb742dfaddd24f720185638
+Shared: False
+Parents: 1HjBKGdF7dNJt-nW9tInc9e02OLiuv35Y
+ViewUrl: https://drive.google.com/file/d/1LLRl8JrGmgEYooQE2xwiQbTIneFxeREM/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/adnan
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/ahmad
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/essa
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/farouq
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/jad
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/leen
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/majd
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/naji
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/omar
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/qusai
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/samah
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/sarah
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/tahsin
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/tarek
+/home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submit/yousef
+Updating 15dPxx_e58TlkVH73eVLYpktddh95llo2 with /home/farouq-gfishi/Personal/devops/01-Linux/exercises/04-submit-dirs/submitdir.sh
+File successfully updated
+Id: 15dPxx_e58TlkVH73eVLYpktddh95llo2
+Name: submitdir.sh
+Mime: application/x-sh
+Size: 513 B
+Created: 2024-06-30 16:06:57
+Modified: 2024-07-05 17:48:03
+MD5: 6260ba7665967835154df43c9e64b4fd
+Shared: False
+Parents: 1HjBKGdF7dNJt-nW9tInc9e02OLiuv35Y
+ViewUrl: https://drive.google.com/file/d/15dPxx_e58TlkVH73eVLYpktddh95llo2/view?usp=drivesdk
+Updating 1FaL0KJW6Sh_zwavuSph-w7JYzeiS7CNc with /home/farouq-gfishi/Personal/devops/01-Linux/gdrive.txt
+File successfully updated
+Id: 1FaL0KJW6Sh_zwavuSph-w7JYzeiS7CNc
+Name: gdrive.txt
+Mime: text/plain
+Size: 288 B
+Created: 2024-06-30 16:06:59
+Modified: 2024-07-05 17:48:07
+MD5: c78de5e544de54a7826b9f1241b5e7dc
+Shared: False
+Parents: 105YtYzWROG28PP2gUEzKdVnFtTEbQm_R
+ViewUrl: https://drive.google.com/file/d/1FaL0KJW6Sh_zwavuSph-w7JYzeiS7CNc/view?usp=drivesdk
+Updating 1GbOQuuBWA8gEYyj0RH7Ioe7FZXEpJSNi with /home/farouq-gfishi/Personal/devops/01-Linux/linux-command.txt
+File successfully updated
+Id: 1GbOQuuBWA8gEYyj0RH7Ioe7FZXEpJSNi
+Name: linux-command.txt
+Mime: text/plain
+Size: 3.6 KB
+Created: 2024-06-30 16:07:01
+Modified: 2024-07-05 17:48:10
+MD5: 9ebf1f99d8405b183b780f3565526931
+Shared: False
+Parents: 105YtYzWROG28PP2gUEzKdVnFtTEbQm_R
+ViewUrl: https://drive.google.com/file/d/1GbOQuuBWA8gEYyj0RH7Ioe7FZXEpJSNi/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/01-Linux/task
+Updating 19Da_zIgzn-IKUemnUIGFog6undbFvjxi with /home/farouq-gfishi/Personal/devops/01-Linux/task/answer-solution
+File successfully updated
+Id: 19Da_zIgzn-IKUemnUIGFog6undbFvjxi
+Name: answer-solution
+Mime: application/octet-stream
+Size: 467 B
+Created: 2024-06-30 16:07:05
+Modified: 2024-07-05 17:48:14
+MD5: 058504585c6c342484b5379ef81b0e10
+Shared: False
+Parents: 1RA1qsOPD0PU5tYpX4NbchflXfrb9-S4m
+ViewUrl: https://drive.google.com/file/d/19Da_zIgzn-IKUemnUIGFog6undbFvjxi/view?usp=drivesdk
+Updating 1SHWoruCTum7PiXYq1EQL1-LnJ4P0hK1A with /home/farouq-gfishi/Personal/devops/01-Linux/task/data2.csv
+File successfully updated
+Id: 1SHWoruCTum7PiXYq1EQL1-LnJ4P0hK1A
+Name: data2.csv
+Mime: text/csv
+Size: 141 B
+Created: 2024-06-30 16:07:07
+Modified: 2024-07-05 17:48:17
+MD5: c0116cfe1dcb09c8245c54f88efb6045
+Shared: False
+Parents: 1RA1qsOPD0PU5tYpX4NbchflXfrb9-S4m
+ViewUrl: https://drive.google.com/file/d/1SHWoruCTum7PiXYq1EQL1-LnJ4P0hK1A/view?usp=drivesdk
+Updating 1X7DPMAP9ebB7CanOSRAms7121OznQQeB with /home/farouq-gfishi/Personal/devops/01-Linux/task/data.csv
+File successfully updated
+Id: 1X7DPMAP9ebB7CanOSRAms7121OznQQeB
+Name: data.csv
+Mime: text/csv
+Size: 143 B
+Created: 2024-06-30 16:07:09
+Modified: 2024-07-05 17:48:20
+MD5: 182ceb3ba3417eac5b94f65793745fe1
+Shared: False
+Parents: 1RA1qsOPD0PU5tYpX4NbchflXfrb9-S4m
+ViewUrl: https://drive.google.com/file/d/1X7DPMAP9ebB7CanOSRAms7121OznQQeB/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/01-Linux/task/Engineering
+Updating 1m8VVBU53-848o2jeJ7_534_gRmfEMg6N with /home/farouq-gfishi/Personal/devops/01-Linux/task/first.sh
+File successfully updated
+Id: 1m8VVBU53-848o2jeJ7_534_gRmfEMg6N
+Name: first.sh
+Mime: application/x-sh
+Size: 168 B
+Created: 2024-06-30 16:07:13
+Modified: 2024-07-05 17:48:24
+MD5: 96479eaa2d2949185ad536db6f2a106f
+Shared: False
+Parents: 1RA1qsOPD0PU5tYpX4NbchflXfrb9-S4m
+ViewUrl: https://drive.google.com/file/d/1m8VVBU53-848o2jeJ7_534_gRmfEMg6N/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/01-Linux/task/Marketing
+Updating 1BpLW0aQKwHinaQ9Po4J9z6TcDgAKrCDr with /home/farouq-gfishi/Personal/devops/01-Linux/task/names.txt
+File successfully updated
+Id: 1BpLW0aQKwHinaQ9Po4J9z6TcDgAKrCDr
+Name: names.txt
+Mime: text/plain
+Size: 28 B
+Created: 2024-06-30 16:07:16
+Modified: 2024-07-05 17:48:28
+MD5: 88737dfdfbd9e9197a89b38cd5620287
+Shared: False
+Parents: 1RA1qsOPD0PU5tYpX4NbchflXfrb9-S4m
+ViewUrl: https://drive.google.com/file/d/1BpLW0aQKwHinaQ9Po4J9z6TcDgAKrCDr/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/01-Linux/task/Sales
+/home/farouq-gfishi/Personal/devops/02-Git
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/pom.xml
+File successfully uploaded
+Id: 1BCVUkWWKz_kY9bf5sjIJ3m4ZTsXbcjze
+Name: pom.xml
+Mime: text/xml
+Size: 2.4 KB
+Created: 2024-07-05 17:48:34
+Modified: 2024-07-05 17:48:34
+MD5: 0d31251f4a4f6dffdbea72417695803c
+Shared: False
+Parents: 1RlO3WnX7sXfSvqocWfre_7anUx6Xckho
+ViewUrl: https://drive.google.com/file/d/1BCVUkWWKz_kY9bf5sjIJ3m4ZTsXbcjze/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/README.md
+File successfully uploaded
+Id: 1HtXKjrh38nAYQXBb0FrOvbjl735TZWaV
+Name: README.md
+Mime: text/markdown
+Size: 6.2 KB
+Created: 2024-07-05 17:48:36
+Modified: 2024-07-05 17:48:36
+MD5: eea70a677f7db2b0816cb6a2de180f26
+Shared: False
+Parents: 1RlO3WnX7sXfSvqocWfre_7anUx6Xckho
+ViewUrl: https://drive.google.com/file/d/1HtXKjrh38nAYQXBb0FrOvbjl735TZWaV/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops/assignment
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops/assignment/Application.java
+File successfully uploaded
+Id: 1sLbF7yLhxwQym_w3-N3qh2e48ChesNKX
+Name: Application.java
+Mime: text/x-java
+Size: 325 B
+Created: 2024-07-05 17:48:50
+Modified: 2024-07-05 17:48:50
+MD5: ff17b7058d875fe3c0da5e494cd08ad5
+Shared: False
+Parents: 1MFWiVB2Gwsm2MOkNd7htKWFqxf0cKVwl
+ViewUrl: https://drive.google.com/file/d/1sLbF7yLhxwQym_w3-N3qh2e48ChesNKX/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops/assignment/controller
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops/assignment/controller/PersonController.java
+File successfully uploaded
+Id: 11ZwH53PqR6z7GmWew7S-RZgy-L_xPuQE
+Name: PersonController.java
+Mime: text/x-java
+Size: 3.1 KB
+Created: 2024-07-05 17:48:53
+Modified: 2024-07-05 17:48:53
+MD5: 4b73e721df84304aeafdb6ca6798345a
+Shared: False
+Parents: 1KGfcWuPUajk_AUml17wVFmajoyu_gbGS
+ViewUrl: https://drive.google.com/file/d/11ZwH53PqR6z7GmWew7S-RZgy-L_xPuQE/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops/assignment/controller/Person.java
+File successfully uploaded
+Id: 1kVkYs46DCBOx5haEm2XvEpNpXkh1oMwP
+Name: Person.java
+Mime: text/x-java
+Size: 592 B
+Created: 2024-07-05 17:48:55
+Modified: 2024-07-05 17:48:55
+MD5: 38f64f4d711739640092a27a19b0ea5f
+Shared: False
+Parents: 1KGfcWuPUajk_AUml17wVFmajoyu_gbGS
+ViewUrl: https://drive.google.com/file/d/1kVkYs46DCBOx5haEm2XvEpNpXkh1oMwP/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops/assignment/controller/PersonMapper.java
+File successfully uploaded
+Id: 1CjskiwXYLsWuusssbYSjOgsO446B2N31
+Name: PersonMapper.java
+Mime: text/x-java
+Size: 586 B
+Created: 2024-07-05 17:48:57
+Modified: 2024-07-05 17:48:57
+MD5: 4e96d4bbcbb609aa469dd1cf50fd3b01
+Shared: False
+Parents: 1KGfcWuPUajk_AUml17wVFmajoyu_gbGS
+ViewUrl: https://drive.google.com/file/d/1CjskiwXYLsWuusssbYSjOgsO446B2N31/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops/assignment/repository
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops/assignment/repository/PersonEntity.java
+File successfully uploaded
+Id: 1NlLKgrI37BZuwTHfXIgEpvCnxR4-jlft
+Name: PersonEntity.java
+Mime: text/x-java
+Size: 763 B
+Created: 2024-07-05 17:49:00
+Modified: 2024-07-05 17:49:00
+MD5: beef15075f3683e026322c0a81870bd9
+Shared: False
+Parents: 1bibgBXwbBqVOTbJiGUJSVaSb4V9MQJEG
+ViewUrl: https://drive.google.com/file/d/1NlLKgrI37BZuwTHfXIgEpvCnxR4-jlft/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/java/com/progressoft/devops/assignment/repository/PersonRepository.java
+File successfully uploaded
+Id: 16p4lXpzVHluI5rQ_OPeC3hoha_CNSrRL
+Name: PersonRepository.java
+Mime: text/x-java
+Size: 260 B
+Created: 2024-07-05 17:49:02
+Modified: 2024-07-05 17:49:02
+MD5: e0a2a0234feedc1494d581ee1188adf2
+Shared: False
+Parents: 1bibgBXwbBqVOTbJiGUJSVaSb4V9MQJEG
+ViewUrl: https://drive.google.com/file/d/16p4lXpzVHluI5rQ_OPeC3hoha_CNSrRL/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/resources
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/resources/application-h2.yaml
+File successfully uploaded
+Id: 1H2IPzRXLUzbJ5sw4cGmaSt8w3D9THivE
+Name: application-h2.yaml
+Mime: text/x-yaml
+Size: 343 B
+Created: 2024-07-05 17:49:06
+Modified: 2024-07-05 17:49:06
+MD5: 2690ca327cc392775568861fb9334426
+Shared: False
+Parents: 1MfZ5mDQ3AFwsrx0-b3RUwq5_X5-vPjz3
+ViewUrl: https://drive.google.com/file/d/1H2IPzRXLUzbJ5sw4cGmaSt8w3D9THivE/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/02-Git/devops-practices/src/main/resources/application.yaml
+File successfully uploaded
+Id: 1j4fgTvhPn_3Z4iqIYCLPgocGOWZ4-HRu
+Name: application.yaml
+Mime: text/x-yaml
+Size: 421 B
+Created: 2024-07-05 17:49:08
+Modified: 2024-07-05 17:49:08
+MD5: ff1199ce416ef23b425feca175c87c40
+Shared: False
+Parents: 1MfZ5mDQ3AFwsrx0-b3RUwq5_X5-vPjz3
+ViewUrl: https://drive.google.com/file/d/1j4fgTvhPn_3Z4iqIYCLPgocGOWZ4-HRu/view?usp=drivesdk
+Updating 1Wfzc1ickpfegRIfnX3ik50SCJ0Eb_IAa with /home/farouq-gfishi/Personal/devops/02-Git/note
+File successfully updated
+Id: 1Wfzc1ickpfegRIfnX3ik50SCJ0Eb_IAa
+Name: note
+Mime: application/octet-stream
+Size: 1.5 KB
+Created: 2024-06-30 16:07:22
+Modified: 2024-07-05 17:49:11
+MD5: 1a4eb5afbe613a04a2376e26a75ea5f0
+Shared: False
+Parents: 1Zz8vKpXjrg2TfukF9ca6Tpl5cE2ZiNog
+ViewUrl: https://drive.google.com/file/d/1Wfzc1ickpfegRIfnX3ik50SCJ0Eb_IAa/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices
+Updating 1LtELC9Ey5ekOVhOXr1htztiHOV66GoeI with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/pom.xml
+File successfully updated
+Id: 1LtELC9Ey5ekOVhOXr1htztiHOV66GoeI
+Name: pom.xml
+Mime: text/xml
+Size: 2.4 KB
+Created: 2024-06-30 16:07:27
+Modified: 2024-07-05 17:49:16
+MD5: 2a1bfdd62b9d92b51db0a59c99c0c97e
+Shared: False
+Parents: 1-z4VJNWy8X6RmN3JZLYvrb2JIaf1uqOW
+ViewUrl: https://drive.google.com/file/d/1LtELC9Ey5ekOVhOXr1htztiHOV66GoeI/view?usp=drivesdk
+Updating 1LFlKE8Qh3G9j3NdN1C7Vg-X8P47i-qLj with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/README.md
+File successfully updated
+Id: 1LFlKE8Qh3G9j3NdN1C7Vg-X8P47i-qLj
+Name: README.md
+Mime: text/markdown
+Size: 6.2 KB
+Created: 2024-06-30 16:07:31
+Modified: 2024-07-05 17:49:19
+MD5: eea70a677f7db2b0816cb6a2de180f26
+Shared: False
+Parents: 1-z4VJNWy8X6RmN3JZLYvrb2JIaf1uqOW
+ViewUrl: https://drive.google.com/file/d/1LFlKE8Qh3G9j3NdN1C7Vg-X8P47i-qLj/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops/assignment
+Updating 1v873Hu9noC0MvarnzXFhcdg1uiEcVpW8 with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops/assignment/Application.java
+File successfully updated
+Id: 1v873Hu9noC0MvarnzXFhcdg1uiEcVpW8
+Name: Application.java
+Mime: text/x-java
+Size: 325 B
+Created: 2024-06-30 16:07:46
+Modified: 2024-07-05 17:49:30
+MD5: ff17b7058d875fe3c0da5e494cd08ad5
+Shared: False
+Parents: 1mALtzWMkqJlcnd8Twn06hi71zVroK-RW
+ViewUrl: https://drive.google.com/file/d/1v873Hu9noC0MvarnzXFhcdg1uiEcVpW8/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops/assignment/controller
+Updating 1FJ-adjbv9nosExbajy-SYKrVjWKslryI with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops/assignment/controller/PersonController.java
+File successfully updated
+Id: 1FJ-adjbv9nosExbajy-SYKrVjWKslryI
+Name: PersonController.java
+Mime: text/x-java
+Size: 3.1 KB
+Created: 2024-06-30 16:07:49
+Modified: 2024-07-05 17:49:34
+MD5: 4b73e721df84304aeafdb6ca6798345a
+Shared: False
+Parents: 16UDjuv7VbqLnwrTLCe7rScM4k6zrJ1nI
+ViewUrl: https://drive.google.com/file/d/1FJ-adjbv9nosExbajy-SYKrVjWKslryI/view?usp=drivesdk
+Updating 121T9qNQSazJQkxUgQb9mHQnHqznsYLak with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops/assignment/controller/Person.java
+File successfully updated
+Id: 121T9qNQSazJQkxUgQb9mHQnHqznsYLak
+Name: Person.java
+Mime: text/x-java
+Size: 592 B
+Created: 2024-06-30 16:07:51
+Modified: 2024-07-05 17:49:37
+MD5: 38f64f4d711739640092a27a19b0ea5f
+Shared: False
+Parents: 16UDjuv7VbqLnwrTLCe7rScM4k6zrJ1nI
+ViewUrl: https://drive.google.com/file/d/121T9qNQSazJQkxUgQb9mHQnHqznsYLak/view?usp=drivesdk
+Updating 1NTwodHs2Xf0hfUnn4WOT3Dh64lqUwk9m with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops/assignment/controller/PersonMapper.java
+File successfully updated
+Id: 1NTwodHs2Xf0hfUnn4WOT3Dh64lqUwk9m
+Name: PersonMapper.java
+Mime: text/x-java
+Size: 586 B
+Created: 2024-06-30 16:07:53
+Modified: 2024-07-05 17:49:40
+MD5: 4e96d4bbcbb609aa469dd1cf50fd3b01
+Shared: False
+Parents: 16UDjuv7VbqLnwrTLCe7rScM4k6zrJ1nI
+ViewUrl: https://drive.google.com/file/d/1NTwodHs2Xf0hfUnn4WOT3Dh64lqUwk9m/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops/assignment/repository
+Updating 1fBFaXodilUb4rT0e4Gbeu51SCJQutivZ with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops/assignment/repository/PersonEntity.java
+File successfully updated
+Id: 1fBFaXodilUb4rT0e4Gbeu51SCJQutivZ
+Name: PersonEntity.java
+Mime: text/x-java
+Size: 763 B
+Created: 2024-06-30 16:07:57
+Modified: 2024-07-05 17:49:44
+MD5: beef15075f3683e026322c0a81870bd9
+Shared: False
+Parents: 1jBuICcfiJ1maF6wDmU5qccxbq40dboCB
+ViewUrl: https://drive.google.com/file/d/1fBFaXodilUb4rT0e4Gbeu51SCJQutivZ/view?usp=drivesdk
+Updating 1AUe1YaCGUna3adma9GoZxeFPEmEpBypK with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/java/com/progressoft/devops/assignment/repository/PersonRepository.java
+File successfully updated
+Id: 1AUe1YaCGUna3adma9GoZxeFPEmEpBypK
+Name: PersonRepository.java
+Mime: text/x-java
+Size: 260 B
+Created: 2024-06-30 16:07:59
+Modified: 2024-07-05 17:49:47
+MD5: e0a2a0234feedc1494d581ee1188adf2
+Shared: False
+Parents: 1jBuICcfiJ1maF6wDmU5qccxbq40dboCB
+ViewUrl: https://drive.google.com/file/d/1AUe1YaCGUna3adma9GoZxeFPEmEpBypK/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/resources
+Updating 1My9ZGub-m87-JUv11FJ3uwvDM0BrP9In with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/resources/application-h2.yaml
+File successfully updated
+Id: 1My9ZGub-m87-JUv11FJ3uwvDM0BrP9In
+Name: application-h2.yaml
+Mime: text/x-yaml
+Size: 343 B
+Created: 2024-06-30 16:08:03
+Modified: 2024-07-05 17:49:51
+MD5: 2690ca327cc392775568861fb9334426
+Shared: False
+Parents: 1Cypes7A3FocNu3qHXhbJjBBgVhis8eLO
+ViewUrl: https://drive.google.com/file/d/1My9ZGub-m87-JUv11FJ3uwvDM0BrP9In/view?usp=drivesdk
+Updating 1BUzkj8ec9Z3bOteSVoxsXW9ToBVMNMSc with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/src/main/resources/application.yaml
+File successfully updated
+Id: 1BUzkj8ec9Z3bOteSVoxsXW9ToBVMNMSc
+Name: application.yaml
+Mime: text/x-yaml
+Size: 421 B
+Created: 2024-06-30 16:08:05
+Modified: 2024-07-05 17:49:54
+MD5: ff1199ce416ef23b425feca175c87c40
+Shared: False
+Parents: 1Cypes7A3FocNu3qHXhbJjBBgVhis8eLO
+ViewUrl: https://drive.google.com/file/d/1BUzkj8ec9Z3bOteSVoxsXW9ToBVMNMSc/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target
+Updating 1fU4pA6Qjpjij_Hqfqlofxf4q-Q5GZ9SD with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/assignment-20240630-c85f1fc.jar
+File successfully updated
+Id: 1fU4pA6Qjpjij_Hqfqlofxf4q-Q5GZ9SD
+Name: assignment-20240630-c85f1fc.jar
+Mime: application/java-archive
+Size: 40.6 MB
+Created: 2024-06-30 16:08:23
+Modified: 2024-07-05 17:50:11
+MD5: dc13671a2de42e21e706c44f1a0732b5
+Shared: False
+Parents: 1k2oMvZMgOc0NdLPz-M5yfsmdUuehdn1Z
+ViewUrl: https://drive.google.com/file/d/1fU4pA6Qjpjij_Hqfqlofxf4q-Q5GZ9SD/view?usp=drivesdk
+Updating 1jj97Emzr4-IeD85DhaYq8AdPqGqQPbqQ with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/assignment-20240630-c85f1fc.jar.original
+File successfully updated
+Id: 1jj97Emzr4-IeD85DhaYq8AdPqGqQPbqQ
+Name: assignment-20240630-c85f1fc.jar.original
+Mime: application/x-zip
+Size: 9.6 KB
+Created: 2024-06-30 16:08:25
+Modified: 2024-07-05 17:50:14
+MD5: 2b3402093b789230921a8d8150b66f1c
+Shared: False
+Parents: 1k2oMvZMgOc0NdLPz-M5yfsmdUuehdn1Z
+ViewUrl: https://drive.google.com/file/d/1jj97Emzr4-IeD85DhaYq8AdPqGqQPbqQ/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes
+Updating 1fHHgRwlxGbZef-v8TgvAaNCl2e9ZwjhM with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/application-h2.yaml
+File successfully updated
+Id: 1fHHgRwlxGbZef-v8TgvAaNCl2e9ZwjhM
+Name: application-h2.yaml
+Mime: text/x-yaml
+Size: 343 B
+Created: 2024-06-30 16:08:29
+Modified: 2024-07-05 17:50:18
+MD5: 2690ca327cc392775568861fb9334426
+Shared: False
+Parents: 1YBa_vfOp0GuyIOdI_hgEp3Yg-NoCteaa
+ViewUrl: https://drive.google.com/file/d/1fHHgRwlxGbZef-v8TgvAaNCl2e9ZwjhM/view?usp=drivesdk
+Updating 1l-GFOt_GZzJMjQoKceYZ8d7tM6SNcqOz with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/application.yaml
+File successfully updated
+Id: 1l-GFOt_GZzJMjQoKceYZ8d7tM6SNcqOz
+Name: application.yaml
+Mime: text/x-yaml
+Size: 421 B
+Created: 2024-06-30 16:08:31
+Modified: 2024-07-05 17:50:21
+MD5: ff1199ce416ef23b425feca175c87c40
+Shared: False
+Parents: 1YBa_vfOp0GuyIOdI_hgEp3Yg-NoCteaa
+ViewUrl: https://drive.google.com/file/d/1l-GFOt_GZzJMjQoKceYZ8d7tM6SNcqOz/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops/assignment
+Updating 1uVPjqJzTEk_o7AlSFZTw96pvcF85fZkx with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops/assignment/Application.class
+File successfully updated
+Id: 1uVPjqJzTEk_o7AlSFZTw96pvcF85fZkx
+Name: Application.class
+Mime: application/x-java-applet
+Size: 755 B
+Created: 2024-06-30 16:08:40
+Modified: 2024-07-05 17:50:28
+MD5: aeb09e2a5c5a650716354e5e636b66be
+Shared: False
+Parents: 1S3TA6aRS7ZEw9PRGpy5ljZUe8sDvh7_0
+ViewUrl: https://drive.google.com/file/d/1uVPjqJzTEk_o7AlSFZTw96pvcF85fZkx/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops/assignment/controller
+Updating 1pymZh9O2txWS1uzpwKy37HaWFF6OY67b with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops/assignment/controller/Person.class
+File successfully updated
+Id: 1pymZh9O2txWS1uzpwKy37HaWFF6OY67b
+Name: Person.class
+Mime: application/x-java-applet
+Size: 1.2 KB
+Created: 2024-06-30 16:08:43
+Modified: 2024-07-05 17:50:32
+MD5: d7250d74153b38f1827403cc71fa80e5
+Shared: False
+Parents: 1YdRVJzAHPuA-AyiIglxp2BXhKahys6S5
+ViewUrl: https://drive.google.com/file/d/1pymZh9O2txWS1uzpwKy37HaWFF6OY67b/view?usp=drivesdk
+Updating 1vfPE7PoN8VbEcDHIcbXuqOTkc8hrCx5l with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops/assignment/controller/PersonController.class
+File successfully updated
+Id: 1vfPE7PoN8VbEcDHIcbXuqOTkc8hrCx5l
+Name: PersonController.class
+Mime: application/x-java-applet
+Size: 7.4 KB
+Created: 2024-06-30 16:08:45
+Modified: 2024-07-05 17:50:35
+MD5: 7303c9ce6ca2665821f8ece7dcefbe02
+Shared: False
+Parents: 1YdRVJzAHPuA-AyiIglxp2BXhKahys6S5
+ViewUrl: https://drive.google.com/file/d/1vfPE7PoN8VbEcDHIcbXuqOTkc8hrCx5l/view?usp=drivesdk
+Updating 1YscolUC7YSLZrPULNyzknTSUyWEuQy6t with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops/assignment/controller/PersonMapper.class
+File successfully updated
+Id: 1YscolUC7YSLZrPULNyzknTSUyWEuQy6t
+Name: PersonMapper.class
+Mime: application/x-java-applet
+Size: 1.7 KB
+Created: 2024-06-30 16:08:47
+Modified: 2024-07-05 17:50:38
+MD5: 36b127e1d67b4140905c64834350ee08
+Shared: False
+Parents: 1YdRVJzAHPuA-AyiIglxp2BXhKahys6S5
+ViewUrl: https://drive.google.com/file/d/1YscolUC7YSLZrPULNyzknTSUyWEuQy6t/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops/assignment/repository
+Updating 1CsrBMGf-mh3PDgI4M7QH6eQjXqTJXjOG with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops/assignment/repository/PersonEntity.class
+File successfully updated
+Id: 1CsrBMGf-mh3PDgI4M7QH6eQjXqTJXjOG
+Name: PersonEntity.class
+Mime: application/x-java-applet
+Size: 1.5 KB
+Created: 2024-06-30 16:08:51
+Modified: 2024-07-05 17:50:42
+MD5: bec0c47cf86588a13e6ab01b7dc3754e
+Shared: False
+Parents: 1IzWlsAQli3sUMXHugPjRg7pHSIqMVWzE
+ViewUrl: https://drive.google.com/file/d/1CsrBMGf-mh3PDgI4M7QH6eQjXqTJXjOG/view?usp=drivesdk
+Updating 1AU5qNM7UGkqF7cb8-lUjn-zxRfS0kg0D with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/classes/com/progressoft/devops/assignment/repository/PersonRepository.class
+File successfully updated
+Id: 1AU5qNM7UGkqF7cb8-lUjn-zxRfS0kg0D
+Name: PersonRepository.class
+Mime: application/x-java-applet
+Size: 478 B
+Created: 2024-06-30 16:08:53
+Modified: 2024-07-05 17:50:45
+MD5: 74645d61c8f0099ad1e13a2bf2be37fe
+Shared: False
+Parents: 1IzWlsAQli3sUMXHugPjRg7pHSIqMVWzE
+ViewUrl: https://drive.google.com/file/d/1AU5qNM7UGkqF7cb8-lUjn-zxRfS0kg0D/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/generated-sources
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/generated-sources/annotations
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/maven-archiver
+Updating 1WI39OQRzY0A-OwOZ_4FcqieQLeOvGFkQ with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/maven-archiver/pom.properties
+File successfully updated
+Id: 1WI39OQRzY0A-OwOZ_4FcqieQLeOvGFkQ
+Name: pom.properties
+Mime: application/octet-stream
+Size: 78 B
+Created: 2024-06-30 16:09:01
+Modified: 2024-07-05 17:50:51
+MD5: 6692fa62206e41f38d6e77f87179e076
+Shared: False
+Parents: 1S5o5tVMEz5-feq5D64kkxvGjamE8k2Oi
+ViewUrl: https://drive.google.com/file/d/1WI39OQRzY0A-OwOZ_4FcqieQLeOvGFkQ/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/maven-status
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/maven-status/maven-compiler-plugin
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/maven-status/maven-compiler-plugin/compile
+/home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/maven-status/maven-compiler-plugin/compile/default-compile
+Updating 1yTZAcYfYlcDvGQlkCBHrZinG1ropFPL8 with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+File successfully updated
+Id: 1yTZAcYfYlcDvGQlkCBHrZinG1ropFPL8
+Name: createdFiles.lst
+Mime: text/plain
+Size: 374 B
+Created: 2024-06-30 16:09:10
+Modified: 2024-07-05 17:50:58
+MD5: b20fdb2c50c7beb007b07e9cf4058ff9
+Shared: False
+Parents: 1t0EuFqMU9nmYqEoDWZVcjIFQPVjHjAx4
+ViewUrl: https://drive.google.com/file/d/1yTZAcYfYlcDvGQlkCBHrZinG1ropFPL8/view?usp=drivesdk
+Updating 1yqnHXE8cQU2yuvfHRDq_6wJg4zQquCaP with /home/farouq-gfishi/Personal/devops/03-Building-Tools/devops-practices/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+File successfully updated
+Id: 1yqnHXE8cQU2yuvfHRDq_6wJg4zQquCaP
+Name: inputFiles.lst
+Mime: text/plain
+Size: 878 B
+Created: 2024-06-30 16:09:12
+Modified: 2024-07-05 17:51:01
+MD5: 09bd34271c5840f63811906f703bd99a
+Shared: False
+Parents: 1t0EuFqMU9nmYqEoDWZVcjIFQPVjHjAx4
+ViewUrl: https://drive.google.com/file/d/1yqnHXE8cQU2yuvfHRDq_6wJg4zQquCaP/view?usp=drivesdk
+Updating 11AQlxsOqKG6q4WU-H-NnAIFa60-QC7zw with /home/farouq-gfishi/Personal/devops/03-Building-Tools/notes.txt
+File successfully updated
+Id: 11AQlxsOqKG6q4WU-H-NnAIFa60-QC7zw
+Name: notes.txt
+Mime: text/plain
+Size: 64 B
+Created: 2024-06-30 16:09:16
+Modified: 2024-07-05 17:51:04
+MD5: 3f55b7ca81fad9a16e86dfc9e34fb671
+Shared: False
+Parents: 1WZKjuHmNBnVcP2s6VaZqRqIzy1ailajM
+ViewUrl: https://drive.google.com/file/d/11AQlxsOqKG6q4WU-H-NnAIFa60-QC7zw/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/pom.xml
+File successfully uploaded
+Id: 1jJRKKkX9mRxa-frmutrHmOU00Owy922d
+Name: pom.xml
+Mime: text/xml
+Size: 2.4 KB
+Created: 2024-07-05 17:51:09
+Modified: 2024-07-05 17:51:09
+MD5: 2a1bfdd62b9d92b51db0a59c99c0c97e
+Shared: False
+Parents: 16FCqvDs89btDcIasuY0pOBIqxjQ9ifV1
+ViewUrl: https://drive.google.com/file/d/1jJRKKkX9mRxa-frmutrHmOU00Owy922d/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/README.md
+File successfully uploaded
+Id: 1HrG8lPkx5RHsVEdd3HpWgIs4IEy4NFK_
+Name: README.md
+Mime: text/markdown
+Size: 6.2 KB
+Created: 2024-07-05 17:51:11
+Modified: 2024-07-05 17:51:11
+MD5: eea70a677f7db2b0816cb6a2de180f26
+Shared: False
+Parents: 16FCqvDs89btDcIasuY0pOBIqxjQ9ifV1
+ViewUrl: https://drive.google.com/file/d/1HrG8lPkx5RHsVEdd3HpWgIs4IEy4NFK_/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops/assignment
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops/assignment/Application.java
+File successfully uploaded
+Id: 1tD0ZzS38tbQnNxHB-O2Vv3c7SbG5etET
+Name: Application.java
+Mime: text/x-java
+Size: 325 B
+Created: 2024-07-05 17:51:24
+Modified: 2024-07-05 17:51:24
+MD5: ff17b7058d875fe3c0da5e494cd08ad5
+Shared: False
+Parents: 1v-Ism0X6kHoJYqIoMM5auuXfXl6CF0hy
+ViewUrl: https://drive.google.com/file/d/1tD0ZzS38tbQnNxHB-O2Vv3c7SbG5etET/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops/assignment/controller
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops/assignment/controller/PersonController.java
+File successfully uploaded
+Id: 1EkQnHbgffFNrVHTgxYzUkLB0TtWy1C7x
+Name: PersonController.java
+Mime: text/x-java
+Size: 3.1 KB
+Created: 2024-07-05 17:51:28
+Modified: 2024-07-05 17:51:28
+MD5: 4b73e721df84304aeafdb6ca6798345a
+Shared: False
+Parents: 1-Ym4EGwqCA1h7v1X8Q2FBAhPW90muBVf
+ViewUrl: https://drive.google.com/file/d/1EkQnHbgffFNrVHTgxYzUkLB0TtWy1C7x/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops/assignment/controller/Person.java
+File successfully uploaded
+Id: 1Ndy7zYiO9HFnvHTrjJKClyEM17VOGfD8
+Name: Person.java
+Mime: text/x-java
+Size: 592 B
+Created: 2024-07-05 17:51:30
+Modified: 2024-07-05 17:51:30
+MD5: 38f64f4d711739640092a27a19b0ea5f
+Shared: False
+Parents: 1-Ym4EGwqCA1h7v1X8Q2FBAhPW90muBVf
+ViewUrl: https://drive.google.com/file/d/1Ndy7zYiO9HFnvHTrjJKClyEM17VOGfD8/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops/assignment/controller/PersonMapper.java
+File successfully uploaded
+Id: 1UWwGuNQBu9IBSd0GIhccIgC6h1Vp6oBj
+Name: PersonMapper.java
+Mime: text/x-java
+Size: 586 B
+Created: 2024-07-05 17:51:32
+Modified: 2024-07-05 17:51:32
+MD5: 4e96d4bbcbb609aa469dd1cf50fd3b01
+Shared: False
+Parents: 1-Ym4EGwqCA1h7v1X8Q2FBAhPW90muBVf
+ViewUrl: https://drive.google.com/file/d/1UWwGuNQBu9IBSd0GIhccIgC6h1Vp6oBj/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops/assignment/repository
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops/assignment/repository/PersonEntity.java
+File successfully uploaded
+Id: 1XmP84KK0mbniuenZVIrnLb2dTnajSo5G
+Name: PersonEntity.java
+Mime: text/x-java
+Size: 763 B
+Created: 2024-07-05 17:51:35
+Modified: 2024-07-05 17:51:35
+MD5: beef15075f3683e026322c0a81870bd9
+Shared: False
+Parents: 19gu2uP6RpqNvG2S44kAKb2m4jtVP2Ahp
+ViewUrl: https://drive.google.com/file/d/1XmP84KK0mbniuenZVIrnLb2dTnajSo5G/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/java/com/progressoft/devops/assignment/repository/PersonRepository.java
+File successfully uploaded
+Id: 1sPCVixMPWlllHwOVtKDAvptpsr1VGcp-
+Name: PersonRepository.java
+Mime: text/x-java
+Size: 260 B
+Created: 2024-07-05 17:51:37
+Modified: 2024-07-05 17:51:37
+MD5: e0a2a0234feedc1494d581ee1188adf2
+Shared: False
+Parents: 19gu2uP6RpqNvG2S44kAKb2m4jtVP2Ahp
+ViewUrl: https://drive.google.com/file/d/1sPCVixMPWlllHwOVtKDAvptpsr1VGcp-/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/resources
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/resources/application-h2.yaml
+File successfully uploaded
+Id: 1-PoWZE7gnGpQyD85pn54y-EsJg5ut4_m
+Name: application-h2.yaml
+Mime: text/x-yaml
+Size: 343 B
+Created: 2024-07-05 17:51:40
+Modified: 2024-07-05 17:51:40
+MD5: 2690ca327cc392775568861fb9334426
+Shared: False
+Parents: 1rKDMDujvBl_3iUgiQXTzNv5OtpR-eUtj
+ViewUrl: https://drive.google.com/file/d/1-PoWZE7gnGpQyD85pn54y-EsJg5ut4_m/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/src/main/resources/application.yaml
+File successfully uploaded
+Id: 1reDwzEve6TRyvRG55bmmWPB5cTNtaRoF
+Name: application.yaml
+Mime: text/x-yaml
+Size: 421 B
+Created: 2024-07-05 17:51:42
+Modified: 2024-07-05 17:51:42
+MD5: ff1199ce416ef23b425feca175c87c40
+Shared: False
+Parents: 1rKDMDujvBl_3iUgiQXTzNv5OtpR-eUtj
+ViewUrl: https://drive.google.com/file/d/1reDwzEve6TRyvRG55bmmWPB5cTNtaRoF/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/assignment-20240630-c85f1fc.jar
+File successfully uploaded
+Id: 1LguKfET4msvmmpYwWEduiHYEjgAXigco
+Name: assignment-20240630-c85f1fc.jar
+Mime: application/java-archive
+Size: 40.6 MB
+Created: 2024-07-05 17:51:57
+Modified: 2024-07-05 17:51:57
+MD5: e5b0d7010e7b83cb8739d6f89ad1e4dd
+Shared: False
+Parents: 1FepyPTBem18iPSa09gAGDqXQuCxiyzlw
+ViewUrl: https://drive.google.com/file/d/1LguKfET4msvmmpYwWEduiHYEjgAXigco/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/assignment-20240630-c85f1fc.jar.original
+File successfully uploaded
+Id: 1Yb34F_2NeXogHqIeJgOS-wrGyqehcuMR
+Name: assignment-20240630-c85f1fc.jar.original
+Mime: application/x-zip
+Size: 9.6 KB
+Created: 2024-07-05 17:51:59
+Modified: 2024-07-05 17:51:59
+MD5: 2490fd2a3b75a26408f2ae3456e37509
+Shared: False
+Parents: 1FepyPTBem18iPSa09gAGDqXQuCxiyzlw
+ViewUrl: https://drive.google.com/file/d/1Yb34F_2NeXogHqIeJgOS-wrGyqehcuMR/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/application-h2.yaml
+File successfully uploaded
+Id: 1KMKzNZpNCQ_WWwb6WP7japX3rgudVlAo
+Name: application-h2.yaml
+Mime: text/x-yaml
+Size: 343 B
+Created: 2024-07-05 17:52:03
+Modified: 2024-07-05 17:52:03
+MD5: 2690ca327cc392775568861fb9334426
+Shared: False
+Parents: 1DbFJVlrBzPWclAuE-FpDY6OrANTYuOaU
+ViewUrl: https://drive.google.com/file/d/1KMKzNZpNCQ_WWwb6WP7japX3rgudVlAo/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/application.yaml
+File successfully uploaded
+Id: 16C7AHIkHVWa9e2Dn9XgWKv2Reoi0mrer
+Name: application.yaml
+Mime: text/x-yaml
+Size: 421 B
+Created: 2024-07-05 17:52:05
+Modified: 2024-07-05 17:52:05
+MD5: ff1199ce416ef23b425feca175c87c40
+Shared: False
+Parents: 1DbFJVlrBzPWclAuE-FpDY6OrANTYuOaU
+ViewUrl: https://drive.google.com/file/d/16C7AHIkHVWa9e2Dn9XgWKv2Reoi0mrer/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops/assignment
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops/assignment/Application.class
+File successfully uploaded
+Id: 1CUQZEsJmEZdRP9RtkPsRQ90x635LOZN0
+Name: Application.class
+Mime: application/x-java-applet
+Size: 755 B
+Created: 2024-07-05 17:52:13
+Modified: 2024-07-05 17:52:13
+MD5: aeb09e2a5c5a650716354e5e636b66be
+Shared: False
+Parents: 1_u57-cJY5q_PQ2pjTvVTbrkYlwjkPe0n
+ViewUrl: https://drive.google.com/file/d/1CUQZEsJmEZdRP9RtkPsRQ90x635LOZN0/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops/assignment/controller
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops/assignment/controller/Person.class
+File successfully uploaded
+Id: 1JkPuzd7n-QCuFEvxeF-KHbrY1Q7BllKo
+Name: Person.class
+Mime: application/x-java-applet
+Size: 1.2 KB
+Created: 2024-07-05 17:52:17
+Modified: 2024-07-05 17:52:17
+MD5: d7250d74153b38f1827403cc71fa80e5
+Shared: False
+Parents: 1H36PP1x2G8bTAWnSAbqCUNY8UQ7ct4vQ
+ViewUrl: https://drive.google.com/file/d/1JkPuzd7n-QCuFEvxeF-KHbrY1Q7BllKo/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops/assignment/controller/PersonController.class
+File successfully uploaded
+Id: 1wSKEIiVT-FOQ1PZYDmHJDKaWuQmfqrgR
+Name: PersonController.class
+Mime: application/x-java-applet
+Size: 7.4 KB
+Created: 2024-07-05 17:52:18
+Modified: 2024-07-05 17:52:18
+MD5: 7303c9ce6ca2665821f8ece7dcefbe02
+Shared: False
+Parents: 1H36PP1x2G8bTAWnSAbqCUNY8UQ7ct4vQ
+ViewUrl: https://drive.google.com/file/d/1wSKEIiVT-FOQ1PZYDmHJDKaWuQmfqrgR/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops/assignment/controller/PersonMapper.class
+File successfully uploaded
+Id: 18DrRAMhL2UFm6tQYR0tVZIMYFzAR_9wF
+Name: PersonMapper.class
+Mime: application/x-java-applet
+Size: 1.7 KB
+Created: 2024-07-05 17:52:20
+Modified: 2024-07-05 17:52:20
+MD5: 36b127e1d67b4140905c64834350ee08
+Shared: False
+Parents: 1H36PP1x2G8bTAWnSAbqCUNY8UQ7ct4vQ
+ViewUrl: https://drive.google.com/file/d/18DrRAMhL2UFm6tQYR0tVZIMYFzAR_9wF/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops/assignment/repository
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops/assignment/repository/PersonEntity.class
+File successfully uploaded
+Id: 1lFeNB6eJKF41kZm_zfBYuh90JfmBcofr
+Name: PersonEntity.class
+Mime: application/x-java-applet
+Size: 1.5 KB
+Created: 2024-07-05 17:52:24
+Modified: 2024-07-05 17:52:24
+MD5: bec0c47cf86588a13e6ab01b7dc3754e
+Shared: False
+Parents: 1uYk_nz4G3w2zaRF7CiMojrXahgUQoUAF
+ViewUrl: https://drive.google.com/file/d/1lFeNB6eJKF41kZm_zfBYuh90JfmBcofr/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/classes/com/progressoft/devops/assignment/repository/PersonRepository.class
+File successfully uploaded
+Id: 1ifQ9MR699CxJfexlgegwz6O7R9jAXl5U
+Name: PersonRepository.class
+Mime: application/x-java-applet
+Size: 478 B
+Created: 2024-07-05 17:52:26
+Modified: 2024-07-05 17:52:26
+MD5: 74645d61c8f0099ad1e13a2bf2be37fe
+Shared: False
+Parents: 1uYk_nz4G3w2zaRF7CiMojrXahgUQoUAF
+ViewUrl: https://drive.google.com/file/d/1ifQ9MR699CxJfexlgegwz6O7R9jAXl5U/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/maven-archiver
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/maven-archiver/pom.properties
+File successfully uploaded
+Id: 1c2hMf9c-uO2-xE8qZzqNNruPiw5XtUVl
+Name: pom.properties
+Mime: application/octet-stream
+Size: 78 B
+Created: 2024-07-05 17:52:29
+Modified: 2024-07-05 17:52:29
+MD5: 6692fa62206e41f38d6e77f87179e076
+Shared: False
+Parents: 1hLFPfJ_3k92U3z0aRYzSEZDl4ulivVeW
+ViewUrl: https://drive.google.com/file/d/1c2hMf9c-uO2-xE8qZzqNNruPiw5XtUVl/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/maven-status
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/maven-status/maven-compiler-plugin
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/maven-status/maven-compiler-plugin/compile
+/home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/maven-status/maven-compiler-plugin/compile/default-compile
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+File successfully uploaded
+Id: 1MVvBpBjfEegrfa2eyrFxVl41GYzF71k4
+Name: createdFiles.lst
+Mime: text/plain
+Size: 374 B
+Created: 2024-07-05 17:52:38
+Modified: 2024-07-05 17:52:38
+MD5: b20fdb2c50c7beb007b07e9cf4058ff9
+Shared: False
+Parents: 1UQOz8XqF8et5EqVbJmtEJDoaPBS9XK48
+ViewUrl: https://drive.google.com/file/d/1MVvBpBjfEegrfa2eyrFxVl41GYzF71k4/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+File successfully uploaded
+Id: 17L4Yp4pv-dse3glB7Ya8w4PC-NAI70QO
+Name: inputFiles.lst
+Mime: text/plain
+Size: 878 B
+Created: 2024-07-05 17:52:40
+Modified: 2024-07-05 17:52:40
+MD5: 09bd34271c5840f63811906f703bd99a
+Shared: False
+Parents: 1UQOz8XqF8et5EqVbJmtEJDoaPBS9XK48
+ViewUrl: https://drive.google.com/file/d/17L4Yp4pv-dse3glB7Ya8w4PC-NAI70QO/view?usp=drivesdk
+Uploading /home/farouq-gfishi/Personal/devops/04-CI-CD/devops-practices/update_version.sh
+File successfully uploaded
+Id: 16gEA-neCD1wKp1YmtqDzBtShVetmZwZZ
+Name: update_version.sh
+Mime: application/x-sh
+Size: 278 B
+Created: 2024-07-05 17:52:41
+Modified: 2024-07-05 17:52:41
+MD5: 7f43af18a544b1f934f04c69267df27a
+Shared: False
+Parents: 16FCqvDs89btDcIasuY0pOBIqxjQ9ifV1
+ViewUrl: https://drive.google.com/file/d/16gEA-neCD1wKp1YmtqDzBtShVetmZwZZ/view?usp=drivesdk
+Updating 1_97pVQP0hHuQD1KVYxyi-5gsLOcI085i with /home/farouq-gfishi/Personal/devops/04-CI-CD/note.txt
+File successfully updated
+Id: 1_97pVQP0hHuQD1KVYxyi-5gsLOcI085i
+Name: note.txt
+Mime: text/plain
+Size: 340 B
+Created: 2024-06-30 16:13:49
+Modified: 2024-07-05 17:52:45
+MD5: bb80ef5f257954664a4fb5cb9b157deb
+Shared: False
+Parents: 1ZUduGRyaxj8OwliCAKchTfMuk_-dwIpM
+ViewUrl: https://drive.google.com/file/d/1_97pVQP0hHuQD1KVYxyi-5gsLOcI085i/view?usp=drivesdk
+/home/farouq-gfishi/Personal/devops/05-cantainers-concepts
+Uploading /home/farouq-gfishi/Personal/devops/05-cantainers-concepts/note.txt
+File successfully uploaded
+Id: 1he364JskTYQrx9SqEXDAQC6THb47lEnr
+Name: note.txt
+Mime: text/plain
+Size: 2.6 KB
+Created: 2024-07-05 17:52:48
+Modified: 2024-07-05 17:52:48
+MD5: 8d2fa2339e157927a9ed8c33e85b5a91
+Shared: False
+Parents: 1AXEDTjh2FrqTiTTxVIZwjlIK5filpdld
+ViewUrl: https://drive.google.com/file/d/1he364JskTYQrx9SqEXDAQC6THb47lEnr/view?usp=drivesdk
+
+***************************************
+DONE!
+It takes 348.001152 seconds to complete.
